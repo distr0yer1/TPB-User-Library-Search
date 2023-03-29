@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPB User Library Search", "TPB User Library Search\TPB User Library Search.csproj", "{2040A02B-A358-4CAC-B775-736B5CA14046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2040A02B-A358-4CAC-B775-736B5CA14046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2040A02B-A358-4CAC-B775-736B5CA14046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2040A02B-A358-4CAC-B775-736B5CA14046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2040A02B-A358-4CAC-B775-736B5CA14046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9421700-6409-4E18-84EF-4101AF2808BE}
+	EndGlobalSection
+EndGlobal
