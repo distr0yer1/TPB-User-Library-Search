@@ -15,5 +15,6 @@ This is an application I crated one night after getting tired for searching thro
 WIP:
   -Category filter. Haven't needed it so I haven't coded it.
 
+Executable file here: https://github.com/distr0yer1/TPB-User-Library-Search/blob/master/Debug/TPB%20User%20Library%20Search.exe
 
 Like what you see and want to donate: paypal.me/Distr0yer
